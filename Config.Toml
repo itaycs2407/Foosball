@@ -1,0 +1,26 @@
+#Foosball Configuration
+
+#app settings
+[appSettingsConfig]
+csvRelativePath = /a/b
+windowStartFromX = 0
+windowStartFromY = 0
+windowWidth = 5.6
+windowHeight = 6.6
+musicRelativePath = "gfdhgsf"
+
+
+
+#game settings
+[gameSttingsConfig]
+photosRelativePath = "nirnirn"
+player1UpButton = "w"
+player1DownButton = "s"
+player2UpButton = "8"
+player2DownButton = "2"
+gameTimeInMinutes = 5
+maxScore = 5
+fieldRows = 10
+fieldColumns = 10
+goalPart = 0.25
+

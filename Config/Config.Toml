@@ -1,0 +1,27 @@
+#Foosball Configuration
+
+#app settings
+[appSettingsConfig]
+
+csvRelativePath = \\Logic\\Config\\DB.csv
+windowStartFromX = 100
+windowStartFromY = 100
+windowWidth = 1000
+windowHeight = 700
+
+
+
+#game settings
+[gameSettingsConfig]
+loadingGifPath = \\images\\t.gif
+player1UpButton = "w"
+player1DownButton = "s"
+player2UpButton = "o"
+player2DownButton = "l"
+gameTimeInMinutes = 5
+maxScore = 5
+stopBtn = "p"
+fieldRows = 600
+fieldColumns = 800
+goalPart = 0.25
+
